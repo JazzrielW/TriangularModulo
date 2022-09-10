@@ -6,10 +6,15 @@ This is a relatively simple program I made out of solving some curiosity I have 
 i.e. for n=6
 
 1 3 6 4 3 3
+
 2 5 3 2 2
+
 4 2 1 1
+
 1 6 6
+
 5 5
+
 4
 
 It has a predetermined starting value of n=10 and a zoom level of 5px. You can change the zoom with the up and down arrows (down to 1px per number) , and you can decrease or increase N with left and right. You can also skip to any N you like by pressing "n" typing the number you want *on the number pad* and pressing enter (you can get some funky results by pressing any random key instead of numbers). 
